@@ -12,7 +12,7 @@
 - 🎨 Créateur de logos premium pour di20, diStore, et modules OS
 - 🧠 Architecte de systèmes modulaires (launcher, app store, lock screen)
 - 🌍 Lingue : 🇫🇷 Français 
-- 📢 Advocacy stratégique auprès des fabricants Android
+- 📢  diOS
 
 ---
 
@@ -29,9 +29,8 @@
 ## 🎯 Objectifs actuels
 
 - Déploiement de logos animés pour di20 et diStore  
-- Intégration dans splash screens, icônes, et intros  
-- Messages multilingues à Tecno pour mises à jour Android
-
+- Intégration dans splash screens, icônes, et intros
+  
 ---
 
 ## 📫 Me contacter
