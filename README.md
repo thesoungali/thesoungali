@@ -35,7 +35,7 @@
 
 ## 📫 Me contacter
 
-- 🌍 Site officiel : [thesoungali.com](https://thesoungali.com)
+- 🌍 Site officiel : [thesoungali.com](https://thesoungali.site)
 - 📧 Email : contact@thesoungali.com
 - 🐦 Twitter : [@thesoungali](https://twitter.com/thesoungali)
 - 💼 LinkedIn : [Soungali Diarra](https://linkedin.com/in/thesoungali)
